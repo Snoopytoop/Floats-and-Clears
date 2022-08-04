@@ -1,0 +1,72 @@
+h1 {
+  text-align: center;
+}
+
+.container {
+  margin: 30px;
+  width: 80%;
+  height: 800px;
+  margin: auto;
+}
+
+.p {
+  width: 300px;
+  height: 300px;
+  float: left;
+}
+
+.box-1 {
+  height: 300px;
+  width: 300px;
+  background-color: tomato;
+  float: left;
+}
+
+.box-2 {
+  height: 300px;
+  width: 300px;
+  background-color: green;
+  clear: both;
+  float: left;
+  color: white;
+}
+
+.box-3 {
+  height: 300px;
+  width: 300px;
+  background-color: blue;
+  float: right;
+  color: white;
+}
+
+.container-2 {
+  clear: both;
+  height: 800px;
+  width: 800px;
+  padding: 0;
+  margin: auto;
+}
+
+.p-1 {
+  float: left;
+  max-width: 200px;
+  padding: 10px;
+}
+
+.p-2 {
+  float: left;
+  max-width: 200px;
+  padding: 10px;
+}
+
+.p-4 {
+  float: right;
+  max-width: 200px;
+  padding: 10px;
+}
+
+.p-3 {
+  float: right;
+  max-width: 200px;
+  padding: 10px;
+}
